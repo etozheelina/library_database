@@ -1,0 +1,5 @@
+CREATE TABLE Жанры (
+    category_id INT PRIMARY KEY IDENTITY(1,1),
+    Жанр VARCHAR(255) NOT NULL
+);
+GO

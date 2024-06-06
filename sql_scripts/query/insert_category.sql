@@ -1,0 +1,2 @@
+EXEC InsertCategory
+    @Жанр = 'Роман'
